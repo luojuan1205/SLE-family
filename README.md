@@ -1,5 +1,5 @@
 # SLE-family
-The single nucleotide polymorphisms (SNPs) and some of statistical analysis data of this SLE family used in this manuscript are stored here. 
+The single nucleotide polymorphisms (SNPs) and some of statistical analysis data of the SLE family used in our manuscript are stored here. 
 The following is the description of each file.
 File 1:patient-specific SNPs that occurred in all three patients but not in healthy control.
 File 2:healthy-specific SNPs that occurred in healthy control but not in any of three patients.
